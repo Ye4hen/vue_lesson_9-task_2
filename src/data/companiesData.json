@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"name": "Amazon",
+		"rate": 17,
+		"year": 1994,
+		"owner": "Bezos J."
+	},
+	{
+		"id": 2,
+		"name": "Apple",
+		"rate": 42,
+		"year": 1976,
+		"owner": "Jobs S."
+	},
+	{
+		"id": 3,
+		"name": "Facebook",
+		"rate": 14,
+		"year": 2004,
+		"owner": "Cukerberg M."
+	},
+	{
+		"id": 4,
+		"name": "Google",
+		"rate": 25,
+		"year": 1998,
+		"owner": "Page L. & Brin S."
+	},
+	{
+		"id": 5,
+		"name": "Microsoft",
+		"rate": 30,
+		"year": 1975,
+		"owner": "Gates B. & Allen P."
+	},
+	{
+		"id": 6,
+		"name": "Tesla",
+		"rate": 90,
+		"year": 2003,
+		"owner": "Musk E."
+	},
+	{
+		"id": 7,
+		"name": "Samsung",
+		"rate": 36,
+		"year": 1938,
+		"owner": "Lee B. & Lee M."
+	},
+	{
+		"id": 8,
+		"name": "Walmart",
+		"rate": 50,
+		"year": 1962,
+		"owner": "Walton S."
+	},
+	{
+		"id": 9,
+		"name": "Toyota",
+		"rate": 55,
+		"year": 1937,
+		"owner": "Toyota family"
+	},
+	{
+		"id": 10,
+		"name": "Alibaba",
+		"rate": 68,
+		"year": 1999,
+		"owner": "Ma Y."
+	}
+]
